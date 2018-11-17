@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
-CS146 Repository
+# CS146
+Data Structures and Algorithms
